@@ -3,12 +3,12 @@
 }
 
 body {
-	background: #2effd1;
+	background: #e6e2d3;
 	font-size: 16px;
 }
 
 #header-nav {
-	background-color: #91ff6e;
+	background-color: #b9936c;
 	border-radius: 0;
 	border: 0;
 }
@@ -32,7 +32,7 @@ body {
 }
 
 #nav-list {
-	background-color: #91ff6e;
+	background-color: #dac292;
 	border-top: 2px solid #000;
 	border-bottom: 2px solid #000;
 }
